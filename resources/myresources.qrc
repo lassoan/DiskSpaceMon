@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="database">database.png</file>
+        <file alias="database-ok">database-ok.png</file>
+        <file alias="database-error">database-error.png</file>
+    </qresource>
+</RCC>
